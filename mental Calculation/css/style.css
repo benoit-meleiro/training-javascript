@@ -1,0 +1,17 @@
+body{
+    font-family: 'Tilt Neon', cursive;
+    background: linear-gradient(to right, #8e9eab, #eef2f3);
+}
+p{
+    font-size: large;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.myCanvas{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
